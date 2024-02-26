@@ -1,0 +1,78 @@
+个人：
+R/S#GENDER 性别
+分类变量
+1-	MALE 
+2-	FEMALE
+
+R/S#SHLT 自我健康评分
+连续变量
+	1 – EXCELLENT
+	…
+	5 – POOR
+
+R/S#BMI 身高体重指数
+连续变量
+	Weight/Height^2
+
+R/S#MSTOT 精神状态总分，只有w3-w13
+	连续变量
+	
+R/S#COGTOT 认知水平总分，只有w3-w13
+	连续变量
+
+家庭以及社会帮助:
+R/S#INHPFN 	Total number of helpers ever helped
+	连续变量
+
+R/S#INHPE	Any employee of institution ever helped
+	分类变量
+	0 – No
+	1 – Yes
+
+H#HHRES	number of people in household
+	连续变量
+
+H#CHILD	Number of children
+	连续变量
+
+R/S#LIVSIB	Number of living siblings
+	连续变量
+
+
+经济状况:
+H#INPOV	是否属于贫困人口，不生活在机构中
+	分类变量
+
+H#INPOVA	是否属于贫困人口，生活在机构中
+	分类变量
+	
+H#AIRA 个人退休账户财产金额
+	连续变量
+
+H#ATOTB 总资产金额
+连续变量
+
+R/S#IEARN 个人收入
+	连续变量
+
+H#ITOT 家庭总收入（受访者+配偶）
+	连续变量
+
+R/S#PENINC 		Current receiving pension income
+	分类变量
+	0 – No
+	1 – Yes
+
+R/S#HIGOV		Covered by government health insurance plan
+	分类变量
+	0 – No
+	1 – Yes
+
+R/S#PRPCNT		Number of Private Insurance Plans
+	连续变量
+	
+
+R/S#UNEMP		是否失业
+R/S#SLFEMP		是否自主择业
+R/S#RETMON	通过退休年份判断是否退休
+
