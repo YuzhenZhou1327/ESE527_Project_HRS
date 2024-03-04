@@ -1,8 +1,4 @@
 个人：
-R/S#GENDER 性别
-分类变量
-1-	MALE 
-2-	FEMALE
 
 R/S#SHLT 自我健康评分
 连续变量
