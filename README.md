@@ -1,0 +1,5 @@
+- `randhrs1992_2020v1.7z` is the original dataset. Avilable on https://hrsdata.isr.umich.edu/data-products/rand-hrs-longitudinal-file-2020
+- `RAND_HRS_Longitudinal_2020.pdf` is the document of this dataset.
+- The data from different waves are splited from original dataset and saved in folder `wave`.
+- We did some data exploration in `data exploration.ipynb`.
+- We tested some models and decided to use Random Forest Regeressor. `data analysis.ipynb` contains the training process of this model. We compared the performance of model on raw data, standarized data, and data without outliers. 
