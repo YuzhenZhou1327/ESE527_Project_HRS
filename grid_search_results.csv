@@ -1,11 +1,2 @@
 Group,Best Parameters,Train R^2 (avg),Test R^2 (avg)
-0.00.000.00.0,"{'max_depth': 30, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}",0.49031310602134814,0.6721664113703448
-0.00.00.001.0,"{'max_depth': 20, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}",0.44073975774782254,0.6971936595393246
-0.00.01.000.0,"{'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 200}",0.48996692254777213,0.6960313544489661
-0.00.01.001.0,"{'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 200}",0.5167961723717226,0.6686206901486135
-0.00.01.010.0,"{'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}",0.4746886414935727,0.6882686140630044
-0.00.01.011.0,"{'max_depth': 30, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}",0.4506099878433165,0.6879884216379987
-0.01.01.000.0,"{'max_depth': 20, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}",0.5225459093422927,0.5592519050202182
-0.01.01.010.0,"{'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}",0.44685042572747413,0.701271010200705
-0.01.01.011.0,"{'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 200}",0.4670737347881302,0.6736765772572971
-1.00.00.000.0,"{'max_depth': 30, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 200}",0.29761149435712303,0.4310860748856212
+"0, 0, 0, 0, 0","{'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}",0.690859127590479,0.7747664130558638
