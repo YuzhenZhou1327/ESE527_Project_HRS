@@ -1,7 +1,7 @@
 - `randhrs1992_2020v1.7z` is the original dataset. Avilable on https://hrsdata.isr.umich.edu/data-products/rand-hrs-longitudinal-file-2020
 - `RAND_HRS_Longitudinal_2020.pdf` is the document of this dataset.
 - The data from different waves are splited from original dataset and saved in folder `wave`.
-- We did some data exploration in `data exploration.ipynb`.
-- We split the data into groups and removed the outliers in each group. See `Analysis in groups.ipynb`.
-- We tested some models (in `Baseline Models.ipynb`) and decided to use Random Forest Regeressor. `data analysis.ipynb` contains the training process of this model. We compared the performance of model on raw data, standarized data, and data without outliers. 
-- The final dataset we use is `Removed_outliers_byGroup_data.csv`. Hyperparameter tuning is in `gridsearchCV_2.ipynb`.
+- We did some data exploration in folder `DataExtraction`.
+- The folders `Final`, `Midterm`, `three_forth_semester` are different stage of the project.
+- The folder `log10` is the final version of this project.
+- The scatter plot between input and target features are in folder `scatterplot_input_vs_target`.
